@@ -3,9 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.jenkins.demo</groupId>
   <artifactId>JenkinsWar1</artifactId>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>JenkinsWar Maven Webapp</name>
+  <name>JenkinsJar Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
